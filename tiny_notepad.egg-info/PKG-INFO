@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: tiny_notepad
+Version: 0.1.0
+Summary: A minimal notepad with Ollama integration
+Home-page: https://github.com/yourusername/tiny_notepad
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Tiny Notepad
+
+A lightweight notepad with local Ollama AI integration.
+
+## Install
+
+```bash
+pip install tiny_notepad
+
+tiny_notepad
+```
+
+

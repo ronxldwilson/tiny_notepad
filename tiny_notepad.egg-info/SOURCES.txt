@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tiny_notepad/__init__.py
+tiny_notepad/main.py
+tiny_notepad.egg-info/PKG-INFO
+tiny_notepad.egg-info/SOURCES.txt
+tiny_notepad.egg-info/dependency_links.txt
+tiny_notepad.egg-info/entry_points.txt
+tiny_notepad.egg-info/requires.txt
+tiny_notepad.egg-info/top_level.txt
