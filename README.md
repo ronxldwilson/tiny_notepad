@@ -1,4 +1,4 @@
-# 📝 Tiny Notepad with Ollama
+# Tiny Notepad with Ollama
 
 A sleek local notepad app powered by [Ollama](https://ollama.com/) to generate text using LLMs. Write notes, chat with models, and tweak generation parameters — all in a clean Tkinter-based GUI.
 
@@ -19,7 +19,7 @@ A sleek local notepad app powered by [Ollama](https://ollama.com/) to generate t
 
 ---
 
-## 💡 What is Ollama?
+## What is Ollama?
 
 Ollama lets you run open-source large language models **locally**, including LLaMA, Mistral, Gemma, and more. It provides a lightweight API on `localhost:11434`.
 
@@ -33,7 +33,7 @@ ollama run llama3.2
 
 ---
 
-## 🚀 How to Run This App
+## How to Run This App
 
 1. **Install Python dependencies** (if not already):
 
@@ -51,7 +51,7 @@ ollama run llama3.2
 
 ---
 
-## 🎛️ Model Parameters Explained
+## Model Parameters Explained
 
 | Parameter           | Purpose                                             | Default    |
 | ------------------- | --------------------------------------------------- | ---------- |
@@ -65,13 +65,13 @@ ollama run llama3.2
 
 ---
 
-## 📁 Notes Location
+## Notes Location
 
 All saved notes are stored in the `notes/` folder and autosaved as `notes_YYYY-MM-DD_HH-MM-SS.txt`.
 
 ---
 
-## ✨ Tip
+## Tip
 
 You can install additional models via:
 
