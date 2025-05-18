@@ -7,7 +7,7 @@ setup(
     description="A minimal notepad with Ollama integration",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/tiny_notepad",  # optional
+    url="https://github.com/ronxldwilson/tiny_notepad",  # optional
     packages=find_packages(),
     install_requires=[
         "requests",

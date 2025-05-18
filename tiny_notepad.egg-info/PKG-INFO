@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: tiny_notepad
 Version: 0.1.0
 Summary: A minimal notepad with Ollama integration
-Home-page: https://github.com/yourusername/tiny_notepad
+Home-page: https://github.com/ronxldwilson/tiny_notepad
 Author: Your Name
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: OS Independent
