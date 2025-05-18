@@ -1,2 +1,2 @@
 [console_scripts]
-tiny_notepad = tiny_notepad.main:main
+tiny-notepad = tiny_notepad.main:main

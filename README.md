@@ -68,7 +68,7 @@ ollama serve
 Once installed via `pip`, launch the app using:
 
 ```bash
-tiny_notepad
+tiny-notepad
 ```
 
 > The app will auto-check for Ollama and attempt to start `ollama serve` if it's not already running.
@@ -100,19 +100,6 @@ You can browse and reopen them from the built-in sidebar.
 | `stop`              | Comma-separated stop sequences to end generation  | *(custom)* |
 
 All parameters can be adjusted in the GUI in real time.
-
----
-
-## For Developers
-
-Clone the repo and run manually:
-
-```bash
-git clone https://github.com/ronxldwilson/Tiny-notepad.git
-cd Tiny-notepad
-pip install -r requirements.txt
-python tiny_notepad.py
-```
 
 ---
 

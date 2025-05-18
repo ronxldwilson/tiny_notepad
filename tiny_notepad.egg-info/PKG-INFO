@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: tiny_notepad
-Version: 0.1.2
+Version: 0.1.3
 Summary: A minimal notepad with Ollama integration
 Home-page: https://github.com/ronxldwilson/tiny_notepad
 Author: Ronald Wilson
@@ -22,7 +22,7 @@ Dynamic: summary
 
 # Tiny Notepad with Ollama
 
-A sleek local notepad app powered by **[Ollama](https://ollama.com/)** â€“ write notes, chat with open-source language models, and tweak generation settings. Built with a minimal Tkinter-based GUI.
+A sleek local notepad app powered by **[Ollama](https://ollama.com/)**. Write notes, chat with open-source language models, and tweak generation settings. Built with a minimal Tkinter-based GUI.
 The goal of the project is to be an accessible, light weight version of open-webui capabilities available via a notepad app.
 
 ## What is Tiny Notepad?
@@ -130,7 +130,7 @@ All parameters can be adjusted in the GUI in real time.
 Clone the repo and run manually:
 
 ```bash
-git clone https://github.com/ronxldwilson/Tiny-notepad.git
+git clone https://github.com/ronxldwilson/tiny_notepad.git
 cd Tiny-notepad
 pip install -r requirements.txt
 python tiny_notepad.py
