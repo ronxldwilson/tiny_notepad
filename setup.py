@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="tiny_notepad",
-    version="0.1.3",
+    version="0.1.4",
     author="Ronald Wilson",
     description="A minimal notepad with Ollama integration",
     long_description=open("README.md").read(),
